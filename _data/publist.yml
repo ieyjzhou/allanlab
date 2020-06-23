@@ -1,12 +1,12 @@
 
 - title: "Optimal parameters in concession contracts between container terminal operators and investors"
-  image: TBG_ARPES.png
+  image: PUB_IJLRAjournal.jpg
   description: International investments in the port development become popular including the cases of Chinese companies who are continuously signing concession contracts with many other countries to promote the Belt and Road Initiative. One important issue in a concession contract between an investor and a container terminal operator is how the rental fee is calculated. This study discusses how the port investor optimises the parameters of fixed and variable rental fees for both the cases with a deterministic and an uncertain cargo demand. This study analyzes cases with an uncertain cargo demand in which terminal operators and the port investor may have the same or different degrees of uncertainty on cargo demand. The uncertainty in the cargo demand was found to decrease the revenue of the port investor and increase the profits of the terminal operators..
   authors: Zhou Y., Kim K. H.
   link:
     url: https://ieyjzhou.github.io/files/IJLRA2020.pdf
     display:  PDF
-  highlight: 0
+  highlight: 1
   news2:
 
 - title: "A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals"
