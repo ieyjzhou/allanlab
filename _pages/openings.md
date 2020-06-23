@@ -1,5 +1,5 @@
 ---
-title: "Allan Lab - Vacancies"
+title: "CIEG - Courses"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
