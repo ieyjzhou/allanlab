@@ -10,7 +10,7 @@
   news2:
 
 - title: "A game theoretic model and a coevolutionary solution procedure to determine the terminal handling charges for container terminals"
-  image: TBG_ARPES.png
+  image: PUB_CIEjournal.jpg
   description: A game theoretic model was proposed for multiple container terminals competing with each other to maximize their own profits by determining their terminal handling charges (THCs) that affect the market shares of terminals. The pricing model can describe both the competitive and cooperative games. The congestion cost of the terminals was also considered in the cost term, and revenue sharing rental fee schemes with two-step unit fees were analyzed. To overcome the difficulty in obtaining the Nash Equilibrium of the THCs for container terminals, this study proposed a coevolution-based procedure that adopts the neighborhood structure on toroidal grids and supports localized interactions among species. The numerical experiments showed that both the cost model with the congestion cost and the revenue sharing scheme help improve the total profit of the port. In addition, the results obtained by the coevolution-based procedure in this study were compared with those in previous studies..
   authors: Zhou Y., Kim K. H.
   link:
