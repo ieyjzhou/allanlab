@@ -1,12 +1,12 @@
 ---
-title: "Allan Lab - Home"
+title: "CIEG - Home"
 layout: homelay
-excerpt: "Allan Lab at Leiden University."
+excerpt: "CIEG at Zhengzhou University."
 sitemap: false
 permalink: /
 ---
 
-We are a dynamic research group at the [Leiden Institute of Physics](http://www.physics.leidenuniv.nl). Our aim is to explore and understand [quantum materials](http://condensedconcepts.blogspot.nl/2013/05/what-is-quantum-matter.html), including strange metals, high-temperature superconductors, and quantum critical electron matter.
+The Computer and Industrial Engineering Group (CIEG) was established within the School of Management Engineering at Zhengzhou University in September 2020 by Dr. Yanjie Zhou. The CIEG group carries out research at the interface between Computer Science and Industrial Engineering, developing mathematical models and solution methodologies for decision support in real world problem solving. The CIEG also carries out research at the interface between Management Science and Operation Research by using Computer Science technologies to help industry management their company.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
