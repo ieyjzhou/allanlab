@@ -11,7 +11,7 @@
 
 - name: "This could be you !"
   photo: rock.jpg
-  info: See <a href="http://www.allanlab.org/vacancies">openings</a> for more info
+  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
   email: your@email.com
   number_educ: 0
   education1:
