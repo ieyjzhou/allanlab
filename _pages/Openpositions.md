@@ -6,8 +6,8 @@ sitemap: false
 permalink: /Openpositions.html
 ---
 
-#Open positions
-======
+# Open positions
+ 
 本人将于2020年9月加盟郑州大学管理工程学院。现招本科生参与科研项目。
 招收对象：计算机，数学，工业工程，管理科学工程等相关专业。<br>
 最低要求(掌握下列每项技能，每项至少熟悉一种)：
