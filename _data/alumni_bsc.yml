@@ -1,19 +1,6 @@
-- name: Vishnu Saj, Spring 2017
-
-- name: Arjo Andringa, Spring 2016
-
-- name: Joey Braspenning, Spring 2017
-
-- name: Tjerk Benschop, Summer 2017
-
-- name: Daniëlle van Klink, Spring 2016
-
-- name: Margot Leemker, Spring 2017
-
-- name: Sietske Lensen, Spring 2017
-
-- name: Jasper van Egeraat, Spring 2018
-
-- name: Ringo Groenewegen, Spring 2018
-
-- name: Amber Vervloet, Spring 2019
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
+  email: your@email.com
+  number_educ: 0
+  education1:
