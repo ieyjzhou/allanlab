@@ -1,2 +1,8 @@
-- name: Nikolaos Iliopoulos, Spring 2016
 
+
+- name: "This could be you !"
+  photo: rock.jpg
+  info: See <a href="https://ieyjzhou.github.io/">openings</a> for more info
+  email: your@email.com
+  number_educ: 0
+  education1:
