@@ -8,10 +8,10 @@ permalink: /team/
 
 # Group Members
 
- **We are  looking for new undergraduate, and Master students to join the team** [(see openings)]({{ site.url }}{{ site.baseurl }}/vacancies) **!**
+ **We are  looking for new undergraduate, and Master students to join the team** [(see openings)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
 
 
-Jump to [staff](#Faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [Faculty](#Faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Faculty
 {% assign number_printed = 0 %}
@@ -192,5 +192,4 @@ Jump to [staff](#Faculty), [master and bachelor students](#master-and-bachelor-s
 </div>
 
 
-## Administrative Support
-<a href="mailto:Rijsewijk@Physics.LeidenUniv.nl">Ellie van Rijsewijk</a> is helping us (and other groups) with administration.
+ 
