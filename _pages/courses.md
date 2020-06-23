@@ -3,7 +3,7 @@ title: "CIEG - Courses"
 layout: textlay
 excerpt: "Openings"
 sitemap: false
-permalink: /Courses
+permalink: /courses
 ---
 
 # Courses
