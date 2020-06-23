@@ -29,7 +29,7 @@
   highlight: 1
   news2:
 
-- title: "Linking soft computing to art: Introduction of efficient k-continuous line drawing."
+- title: "Linking soft computing to art: Introduction of efficient k-continuous line drawing"
   image: PUB_ASCjournal.jpg
   description: This paper proposes a method for designing an optimal concession contract under various revenue-sharing schemes with a quantity discount between a port authority and two container-terminal operators. The revenue-sharing scheme with an incremental or all-unit quantity discount provides a discount on the unit fee per container when the amount of cargo of a container terminal is over a predefined breakpoint, which is one of the popular methods for boosting the traffic volume of a port. This study defines a Stackelberg two-stage game model, in which the port authority determines the parameters of the revenue-sharing scheme to maximize its total revenue in the first stage, and two container-terminal operators compete with each other to maximize their profit by determining the terminal ﻿handling charge in the second stage. Numerical experiments show that the revenue-sharing scheme with a quantity discount results in higher revenue to the port authority than that from the traditional revenue-sharing scheme with a single rate. Moreover, revenue sharing with an all-unit discount provides higher revenue than that with an incremental discount in almost all the experimental results.
   authors: Yanjie Zhou and  Gyu Min Lee
@@ -38,3 +38,4 @@
     display:  PDF
   highlight: 1
   news2:
+
