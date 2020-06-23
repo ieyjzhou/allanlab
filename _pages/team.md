@@ -11,7 +11,7 @@ permalink: /team/
  **We are  looking for new undergraduate, and Master students to join the team** [(see openings)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
 
 
-Jump to [Faculty](#Faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
+Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor-students), [alumni](#alumni), [administrative support](#administrative-support), [lab visitors](#lab-visitors).
 
 ## Faculty
 {% assign number_printed = 0 %}
