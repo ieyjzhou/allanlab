@@ -1,7 +1,7 @@
 ---
-title: "Allan Lab - Team"
+title: "CIEG - Team"
 layout: gridlay
-excerpt: "Allan Lab: Team members"
+excerpt: "CIEG: Team members"
 sitemap: false
 permalink: /team/
 ---
@@ -192,4 +192,4 @@ Jump to [faculty](#Faculty), [master and bachelor students](#master-and-bachelor
 </div>
 
 
- 
+
