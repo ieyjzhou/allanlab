@@ -52,10 +52,10 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
 
 <figure class="fourth">
   <p>  
-  <a href="http://www.zzu.edu.cn/"><img src="https://ieyjzhou.github.io/images/zzulogo.png" style="width: 110px" /></a>
-  <a href="http://gs.zzu.edu.cn/"><img src="https://ieyjzhou.github.io/images/UCAS_Logo.png" style="width: 110px" /></a>   
-  <a href="http://www.pusan.ac.kr/eng/Main.do"><img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px" /></a>
-  <a href="https://logms.github.io/"><img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px" /></a>
+  <img src="https://ieyjzhou.github.io/images/zzulogo.png" style="width: 110px" />
+  <img src="https://ieyjzhou.github.io/images/UCAS_Logo.png" style="width: 110px" />
+  <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px" />
+  <img src="https://ieyjzhou.github.io/images/zjulogo.jpg" style="width: 110px" />
   </p>
 </figure>
 
