@@ -6,7 +6,7 @@ sitemap: false
 permalink: /
 ---
 
-The Computer and Industrial Engineering Group (CIEG) was established within the School of Management Engineering at Zhengzhou University in September 2020 by Dr. Yanjie Zhou. The CIEG group carries out research at the interface between Computer Science and Industrial Engineering, developing mathematical models and solution methodologies for decision support in real world problem solving. The CIEG also carries out research at the interface between Management Science and Operation Research by using Computer Science technologies to help industry management their company.
+The Computer and Industrial Engineering Group (CIEG) was established within the [School of Management Engineering](http://www5.zzu.edu.cn/glgc/) at [Zhengzhou University](http://www.zzu.edu.cn/) in September 2020 by Dr. [Yanjie Zhou](https://ieyjzhou.github.io/). The CIEG group carries out research at the interface between Computer Science and Industrial Engineering, developing mathematical models and solution methodologies for decision support in real world problem solving. The CIEG also carries out research at the interface between Management Science and Operation Research by using Computer Science technologies to help industry management their company.
 
 
 <div markdown="0" id="carousel" class="carousel slide" data-ride="carousel" data-interval="5000" data-pause="hover" >
