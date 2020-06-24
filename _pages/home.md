@@ -51,10 +51,13 @@ The Computer and Industrial Engineering Group (CIEG) was established within the 
  **We are  looking for passionate new undergraduate, and Master students to join the team** [(more info)](https://ieyjzhou.github.io/lab/Openpositions.html) **!**
 
 <figure class="fourth">
-  <p><img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 210px" />
-  <img src="https://ieyjzhou.github.io/images/zzulogo.png" style="width: 210px" />
-  <img src="https://logms.github.io/images/LOGMSlogo.png" style="width: 220px" />
-  <img src="http://gs.zzu.edu.cn/files/ZG-logo.gif" style="width: 210px" /></p>
+  <p>
+  
+  <img src="https://ieyjzhou.github.io/images/zzulogo.png" style="width: 110px" />
+  <img src="https://logms.github.io/images/LOGMSlogo.png" style="width: 110px" />
+  <img src="http://gs.zzu.edu.cn/files/ZG-logo.gif" style="width: 110px" />
+  <img src="http://www.pusan.ac.kr/_contents/kor/_Img/Layout/logo.png" style="width: 110px" />
+  </p>
 </figure>
 
 
