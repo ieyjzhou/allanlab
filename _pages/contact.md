@@ -24,4 +24,4 @@ permalink: /contact
 
 # 地图
 
-<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OKIZAABiLXGevOUmcsohK_ODP3ppTa5h" width="800" height="480"  frameborder="0" style="border:0" allowfullscreen></iframe>
+<iframe src="https://www.google.com/maps/d/u/0/embed?mid=1OKIZAABiLXGevOUmcsohK_ODP3ppTa5h" width="1100" height="480"  frameborder="0" style="border:0" allowfullscreen></iframe>
