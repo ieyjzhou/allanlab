@@ -13,7 +13,18 @@
 	<div class="collapse navbar-collapse" id="navbar-collapse-1">
 	  <ul class="nav navbar-nav navbar-right">
 		<li><a href="{{ site.url }}{{ site.baseurl }}/">Home</a></li>
-		<li><a href="{{ site.url }}{{ site.baseurl }}/team">Team</a></li>
+		  <a  class="dropdown-toggle" role="button"  aria-haspopup="true" aria-expanded="false" data-toggle="dropdown" href="{{ site.url }}{{ site.baseurl }}/team">
+			  Team <span class="caret"></span></a>
+		  <ul class="dropdown-menu" aria-labelledby="navbarDropdownMenuLink">
+                   <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/faculty">Faculty</a></li>
+		<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/student_phd">Ph.D. Students</a></li>			  
+		   <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/student_ms">M.S. Students</a></li>	
+		<li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/student_alumni">Alumni</a></li>	  			  
+                   <li><a class="dropdown-item" href="{{ site.url }}{{ site.baseurl }}/visitors">Visitors</a></li>
+		</ul>
+		  
+		  </li>
+		
 		<li><a href="{{ site.url }}{{ site.baseurl }}/courses">Courses</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/publications">Publications</a></li>
 		<li><a href="{{ site.url }}{{ site.baseurl }}/research">Research</a></li>
